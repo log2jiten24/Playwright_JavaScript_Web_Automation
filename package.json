@@ -1,0 +1,17 @@
+{
+  "name": "playwright_java_script_practice",
+  "version": "1.0.0",
+  "description": "Playwright_JavaScript_Framework",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Playwright_JavaScript"
+  ],
+  "author": "Kumar Jitendra",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.11",
+    "allure-playwright": "^2.15.1"
+  }
+}
